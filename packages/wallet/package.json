@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@agoric/internal": "workspace:*",
-    "@agoric/wallet-ui": "0.1.3-solo.0",
+    "@agoric/wallet-ui": "0.5.2",
     "import-meta-resolve": "^4.1.0"
   },
   "publishConfig": {
